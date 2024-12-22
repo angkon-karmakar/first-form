@@ -6,7 +6,12 @@ body{
     background-color: rgb(33, 4, 59);
     
 }
+.one{
+    margin-bottom: 5px;
+    font-size: 20px;
+}
 form{
+    margin-top: 40%;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -18,9 +23,13 @@ label{
 }
 legend{
     color: whitesmoke;
+    
 }
 .pithas{
     margin-top: 30px;
     display: flex;
     flex-direction: column;
+}
+.vorta{
+    margin-top: 30px;
 }
